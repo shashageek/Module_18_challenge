@@ -2,4 +2,4 @@
 ![blocks](Screenshots/Screenshot_blocks.jpg)
 
 
-![chain_validation](creenshots/Screenshot_chain_validation.jpg)
+![chain_validation](Screenshots/Screenshot_chain_validation.jpg)
